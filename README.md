@@ -1,3 +1,7 @@
+mv cats/indoor/back-alley/painting-elephants.jpg elephants/painters
+spec/pet_spec.rb
+
+
 ## Find the Missing Pet
 
 ### Instructions
